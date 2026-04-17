@@ -15,7 +15,7 @@ In 2020, the total medical cost for breast cancer exceeded $29 billion in the Un
 Statistically, the diagnosis and treatment of breast cancer continue to place a significant burden on both patients and healthcare systems². To reduce this burden and improve long-term patient outcomes, early and accurate detection is essential².Given the variability in diagnostic accuracy associated with current breast cancer diagnostic tools, machine learning (ML) techniques offer a promising solution⁵. These technologies have the potential to analyze abnormalities detected in diagnostic images and improve diagnostic accuracy, thereby supporting clinicians in making timely and informed treatment decisions⁵. Accordingly, this study evaluates the effectiveness of machine learning models in accurately identifying malignant breast tumors based on a comprehensive set of predictive features.
 
 
-Methods
+Methods and Results
 
 The Breast Cancer Wisconsin Diagnostic Dataset from the UCI Machine Learning Repository⁹ is a well-known dataset used to train and validate the machine learning models. This dataset has been verified as high-quality through rigorous validation processes and peer-reviewed research conducted by the University of Wisconsin and the University of California, Irvine⁷.
 The dataset includes biopsy features for the classification of 569 breast masses as either malignant (cancerous) or benign (non-cancerous)⁹. The class distribution consists of 212 malignant cases and 357 benign cases⁴. The features were computed from digitized images of fine needle aspirate (FNA) biopsies of breast mass tissue⁹.
